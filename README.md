@@ -1,4 +1,4 @@
-<h1>KWipe - Disk Sanitization</h1>
+<h1>JWipe - Disk Sanitization</h1>
 
 
 <h2>Description</h2>
